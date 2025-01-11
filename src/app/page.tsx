@@ -15,14 +15,7 @@ export default function Home() {
           layout="responsive"
         />
 
-<<<<<<< HEAD
         <Music />
-=======
-        <div className="text-overlay text-white z-10 place-content-center text-center">
-          <h1 className="text-9xl font-bold">We are Dangerous Fashion</h1>
-        </div>
-
->>>>>>> 4d33ba2 (Add favicon and remove sample code)
       </main>
     </div>
   );
